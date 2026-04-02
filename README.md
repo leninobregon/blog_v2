@@ -307,7 +307,7 @@ sudo mysql -u root -p -e "USE blog_tutoriales; SHOW TABLES;"
 
 ```bash
 cd /var/www/html
-sudo git clone https://github.com/tu-usuario/blog_responsivo.git
+sudo git clone https://github.com/leninobregon/blog_v2.git
 ```
 
 ---
